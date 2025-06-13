@@ -3,8 +3,7 @@
 My name is Anthony, and I'm a data scientist in training with IBM, with a passion for Python, Data Science, Time Series Analysis, Machine Learning, and Deep Learning.
 
 - 🔭  I’m currently working on the analysis of Electric Submersible Pumps (ESPs) and compressors for upstream production operations, including the general maintenance of these systems.
-- 🌱 I’m currently learning the IBM Data Science Professional Certificate Course on Coursera.
-- 👯 I’m looking to collaborate on ...
+- 👯 "I’m open to collaborating on projects and ideas related to time series data."
 
 
 <!--
